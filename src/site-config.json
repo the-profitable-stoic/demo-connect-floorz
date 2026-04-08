@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "Connect Floorz",
+    "phone": "+13473138413",
+    "category": "flooring contractor",
+    "city": "New York",
+    "state": "NY"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-heritage-craft",
+      "categoryGroup": "roofing",
+      "name": "Heritage Craft",
+      "recipeFile": "roofing/heritage-craft.astro",
+      "colors": {
+        "primary": "#3D2E1F",
+        "primaryDark": "#251A10",
+        "primaryLight": "#D4C5B0",
+        "secondary": "#5C4A3A",
+        "accent": "#6B5335",
+        "background": "#F5F2ED",
+        "backgroundAlt": "#5C4A3A",
+        "surface": "#EDEAE4",
+        "text": "#1A1510",
+        "textLight": "#4A4540",
+        "textOnDark": "#F5F2ED",
+        "border": "#D5CEBC"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "600",
+        "bodyFont": "Libre Franklin",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "4px",
+        "buttonRadius": "4px",
+        "cardRadius": "6px",
+        "shadowStyle": "subtle"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "generous"
+      }
+    },
+    "recipeId": "roofing/heritage-craft"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "NYC Flooring Experts",
+      "heroSubline": "Durable floors, expertly installed. Serving New York City and surrounding areas with pride and precision.",
+      "aboutTitle": "Crafting Floors, Building Trust",
+      "aboutText": [
+        "Connect Floorz began over a decade ago with a simple goal: to provide New Yorkers with flooring solutions that stand the test of time. We saw a need for reliable, skilled contractors who understood the unique challenges of the city's diverse architecture.",
+        "Our approach is straightforward: quality materials, meticulous craftsmanship, and transparent communication. We believe in doing the job right the first time, ensuring your satisfaction and building lasting relationships with our clients.",
+        "We're deeply rooted in the New York community. We source materials locally whenever possible and actively support local initiatives. Your project helps us invest back into the city we call home."
+      ],
+      "valueProps": [
+        {
+          "title": "Expert Installation",
+          "description": "Certified installers guarantee precise and durable flooring solutions."
+        },
+        {
+          "title": "Wide Selection",
+          "description": "From hardwood to tile, find the perfect style to match your space and budget."
+        },
+        {
+          "title": "Guaranteed Quality",
+          "description": "We stand behind our work with comprehensive warranties and a commitment to excellence."
+        },
+        {
+          "title": "Transparent Pricing",
+          "description": "Upfront and honest quotes with no hidden fees. Know exactly what you're paying for."
+        }
+      ],
+      "ctaHeadline": "Transform Your Space Today",
+      "ctaSubline": "Get a free quote and discover the perfect flooring solution for your needs."
+    },
+    "services": [
+      {
+        "slug": "hardwood-flooring",
+        "name": "Hardwood Flooring",
+        "shortDescription": "Timeless elegance and lasting durability for your home or business.",
+        "description": "Hardwood flooring brings warmth and sophistication to any space. At Connect Floorz, we specialize in the installation, repair, and refinishing of all types of hardwood floors. From classic oak and maple to exotic species like Brazilian cherry and bamboo, we offer a wide selection to suit your style and budget.\n\nOur experienced installers understand the nuances of working with hardwood, ensuring proper acclimation, precise cuts, and seamless transitions. We handle everything from subfloor preparation to the final coat of finish, leaving you with a floor that's both beautiful and durable. We also offer dustless sanding and refinishing to restore your existing hardwood floors to their original luster, minimizing disruption to your home or business. Considering NYC's older buildings, we are experts at leveling and preparing uneven subfloors common in brownstones and pre-war apartments.\n\nWhether you're renovating a historic townhouse or updating a modern condo, Connect Floorz has the expertise to deliver exceptional hardwood flooring solutions. We use only the highest quality materials and employ proven techniques to ensure lasting beauty and value.",
+        "process": [
+          "Step 1: Consultation and design selection",
+          "Step 2: Precise measurements and material ordering",
+          "Step 3: Subfloor preparation and acclimation",
+          "Step 4: Expert installation and finishing"
+        ],
+        "benefits": [
+          "Increases property value",
+          "Adds warmth and character",
+          "Durable and long-lasting",
+          "Easy to clean and maintain"
+        ],
+        "faq": [
+          {
+            "question": "How long does hardwood flooring installation take?",
+            "answer": "Typically, installation takes 2-5 days, depending on the size and complexity of the project. Refinishing can be completed in 1-3 days."
+          },
+          {
+            "question": "What type of hardwood is best for high-traffic areas?",
+            "answer": "Harder wood species like oak, maple, and hickory are more resistant to scratches and dents, making them ideal for high-traffic areas."
+          },
+          {
+            "question": "How often should I refinish my hardwood floors?",
+            "answer": "With proper care, hardwood floors typically need refinishing every 7-10 years. Factors like foot traffic and the type of finish used can affect the lifespan."
+          }
+        ]
+      },
+      {
+        "slug": "tile-flooring",
+        "name": "Tile Flooring",
+        "shortDescription": "Durable, stylish, and versatile flooring for any room in your home.",
+        "description": "Tile flooring is a practical and aesthetically pleasing choice for kitchens, bathrooms, and other high-moisture areas. Connect Floorz offers a wide variety of tile options, including ceramic, porcelain, natural stone, and mosaic tiles. We can install tile floors in any pattern or design, from simple layouts to intricate mosaics.\n\nOur skilled tile installers ensure proper subfloor preparation, precise cuts, and grout lines, and a waterproof seal to prevent moisture damage. We work with a variety of tile sizes and styles, including large-format tiles, subway tiles, and decorative accents. We're experienced in working with the tight spaces and unique layouts found in many NYC apartments.\n\nWhether you're looking for a classic, contemporary, or modern look, Connect Floorz can help you find the perfect tile flooring solution for your needs. We use only the highest quality materials and employ proven techniques to ensure lasting beauty and performance. We also handle tile repairs and grout restoration.",
+        "process": [
+          "Step 1: Design consultation and tile selection",
+          "Step 2: Subfloor preparation and leveling",
+          "Step 3: Precise tile installation and grouting",
+          "Step 4: Sealing and finishing"
+        ],
+        "benefits": [
+          "Water-resistant and easy to clean",
+          "Available in a wide variety of styles",
+          "Durable and long-lasting",
+          "Increases home value"
+        ],
+        "faq": [
+          {
+            "question": "What is the difference between ceramic and porcelain tile?",
+            "answer": "Porcelain tile is denser and more durable than ceramic tile, making it a better choice for high-traffic areas and outdoor applications. Porcelain is also less porous than ceramic."
+          },
+          {
+            "question": "How do I clean and maintain tile floors?",
+            "answer": "Regular cleaning with a mild detergent and water is sufficient for most tile floors. Avoid using abrasive cleaners or harsh chemicals, which can damage the grout and tile surface."
+          },
+          {
+            "question": "Can you install tile over existing flooring?",
+            "answer": "In some cases, tile can be installed over existing flooring if the subfloor is level and structurally sound. However, it's often best to remove the old flooring to ensure proper adhesion and prevent moisture problems."
+          }
+        ]
+      },
+      {
+        "slug": "laminate-flooring",
+        "name": "Laminate Flooring",
+        "shortDescription": "Affordable, durable, and stylish alternative to hardwood and tile.",
+        "description": "Laminate flooring offers the look of hardwood or tile at a fraction of the cost. Connect Floorz offers a wide selection of laminate flooring options, including wood-look, stone-look, and tile-look laminates. Laminate is a great option for NYC apartments due to its durability and ease of maintenance.\n\nOur experienced installers ensure proper subfloor preparation and precise installation for a seamless and long-lasting finish. We work with a variety of laminate styles and thicknesses to suit your needs and budget. Laminate is particularly well-suited for basements due to its moisture resistance.\n\nWhether you're looking for a budget-friendly flooring solution or a durable option for high-traffic areas, Connect Floorz can help you find the perfect laminate flooring for your needs. We use only the highest quality materials and employ proven techniques to ensure lasting beauty and performance.",
+        "process": [
+          "Step 1: Consultation and laminate selection",
+          "Step 2: Subfloor inspection and preparation",
+          "Step 3: Precise laminate installation",
+          "Step 4: Finishing touches and cleanup"
+        ],
+        "benefits": [
+          "Affordable and budget-friendly",
+          "Durable and scratch-resistant",
+          "Easy to clean and maintain",
+          "Wide variety of styles and colors"
+        ],
+        "faq": [
+          {
+            "question": "Is laminate flooring waterproof?",
+            "answer": "While some laminate flooring is water-resistant, it is not completely waterproof. It's important to clean up spills promptly to prevent water damage."
+          },
+          {
+            "question": "How long does laminate flooring last?",
+            "answer": "With proper care, laminate flooring can last 10-20 years or more."
+          },
+          {
+            "question": "Can I install laminate flooring myself?",
+            "answer": "While DIY installation is possible, professional installation is recommended to ensure proper subfloor preparation and a seamless finish."
+          }
+        ]
+      },
+      {
+        "slug": "vinyl-flooring",
+        "name": "Vinyl Flooring",
+        "shortDescription": "Waterproof, resilient, and comfortable flooring for any room.",
+        "description": "Vinyl flooring is a versatile and practical choice for kitchens, bathrooms, and basements. Connect Floorz offers a wide variety of vinyl flooring options, including sheet vinyl, vinyl tile, and luxury vinyl plank (LVP). Vinyl is known for its waterproof and scratch-resistant properties, which are ideal for NYC's diverse climate.\n\nOur experienced installers ensure proper subfloor preparation and precise installation for a seamless and long-lasting finish. We work with a variety of vinyl styles and thicknesses to suit your needs and budget. Luxury vinyl plank offers the look and feel of hardwood or tile with the added benefits of vinyl.\n\nWhether you're looking for a waterproof flooring solution or a comfortable option for high-traffic areas, Connect Floorz can help you find the perfect vinyl flooring for your needs. We use only the highest quality materials and employ proven techniques to ensure lasting beauty and performance.",
+        "process": [
+          "Step 1: Consultation and vinyl selection",
+          "Step 2: Subfloor inspection and preparation",
+          "Step 3: Precise vinyl installation",
+          "Step 4: Sealing and finishing"
+        ],
+        "benefits": [
+          "Waterproof and moisture-resistant",
+          "Resilient and comfortable underfoot",
+          "Easy to clean and maintain",
+          "Wide variety of styles and colors"
+        ],
+        "faq": [
+          {
+            "question": "Is vinyl flooring suitable for basements?",
+            "answer": "Yes, vinyl flooring is an excellent choice for basements due to its waterproof properties."
+          },
+          {
+            "question": "How long does vinyl flooring last?",
+            "answer": "With proper care, vinyl flooring can last 15-25 years or more."
+          },
+          {
+            "question": "What is the difference between sheet vinyl and vinyl tile?",
+            "answer": "Sheet vinyl comes in large rolls, while vinyl tile comes in individual squares or planks. Sheet vinyl offers a seamless surface, while vinyl tile allows for more design flexibility."
+          }
+        ]
+      },
+      {
+        "slug": "floor-repair",
+        "name": "Floor Repair Services",
+        "shortDescription": "Expert floor repair services to restore your floors to their original condition.",
+        "description": "From minor scratches and dents to major damage, Connect Floorz offers comprehensive floor repair services to restore your floors to their original condition. We understand the wear and tear that floors endure, especially in a bustling city like New York. We handle everything from hardwood refinishing and tile replacement to subfloor repairs and structural reinforcement.\n\nOur experienced technicians assess the damage and recommend the most effective repair solutions. We use only the highest quality materials and employ proven techniques to ensure lasting repairs. We can match existing flooring styles and colors to seamlessly blend the repairs with the surrounding areas. We are familiar with the challenges of repairing floors in older buildings, including uneven subfloors and historical materials.\n\nWhether you have hardwood, tile, laminate, or vinyl flooring, Connect Floorz has the expertise to repair it. We strive to minimize disruption to your home or business and complete repairs quickly and efficiently. We also offer preventative maintenance services to extend the life of your floors.",
+        "process": [
+          "Step 1: Damage assessment and repair plan",
+          "Step 2: Material selection and preparation",
+          "Step 3: Expert repair and restoration",
+          "Step 4: Finishing touches and cleanup"
+        ],
+        "benefits": [
+          "Restores the beauty and value of your floors",
+          "Extends the life of your flooring",
+          "Prevents further damage",
+          "Saves money compared to replacement"
+        ],
+        "faq": [
+          {
+            "question": "How much does floor repair cost?",
+            "answer": "The cost of floor repair depends on the extent of the damage and the type of flooring. We offer free estimates to assess the damage and provide an accurate quote."
+          },
+          {
+            "question": "Can you repair water-damaged floors?",
+            "answer": "Yes, we can repair water-damaged floors, but it's important to address the water source first to prevent further damage. We can also help with mold remediation."
+          },
+          {
+            "question": "Do you offer emergency floor repair services?",
+            "answer": "Yes, we offer emergency floor repair services for urgent situations. Contact us for immediate assistance."
+          }
+        ]
+      },
+      {
+        "slug": "floor-installation",
+        "name": "Floor Installation Services",
+        "shortDescription": "Professional floor installation services for all types of flooring.",
+        "description": "Connect Floorz provides expert floor installation services for all types of flooring, including hardwood, tile, laminate, and vinyl. We understand that proper installation is crucial for the longevity and performance of your floors. We handle everything from subfloor preparation to the final finishing touches.\n\nOur experienced installers ensure precise measurements, level surfaces, and seamless transitions. We work with a variety of flooring styles and materials to suit your needs and budget. We are familiar with the building codes and regulations in New York City and surrounding areas.\n\nWhether you're renovating your home or building a new commercial space, Connect Floorz has the expertise to deliver exceptional floor installation services. We use only the highest quality materials and employ proven techniques to ensure lasting beauty and performance. We also offer demolition and removal services for old flooring.",
+        "process": [
+          "Step 1: Consultation and material selection",
+          "Step 2: Site preparation and measurements",
+          "Step 3: Expert floor installation",
+          "Step 4: Finishing touches and cleanup"
+        ],
+        "benefits": [
+          "Ensures proper flooring performance",
+          "Extends the life of your flooring",
+          "Increases property value",
+          "Provides a beautiful and functional space"
+        ],
+        "faq": [
+          {
+            "question": "How long does floor installation take?",
+            "answer": "The duration of floor installation depends on the size of the project and the type of flooring. We provide estimated timelines during the consultation process."
+          },
+          {
+            "question": "Do you offer a warranty on floor installation?",
+            "answer": "Yes, we offer a warranty on our floor installation services to ensure your satisfaction."
+          },
+          {
+            "question": "What is the best way to prepare for floor installation?",
+            "answer": "Remove all furniture and belongings from the area. Ensure the subfloor is clean, level, and dry. Contact us for specific preparation instructions."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "New York",
+        "slug": "new-york-ny",
+        "state": "NY",
+        "content": "Connect Floorz is proud to offer comprehensive flooring services to the vibrant and diverse communities of New York City. From the bustling streets of Manhattan to the historic brownstones of Brooklyn, we provide top-quality flooring solutions for homes and businesses alike. We understand the unique challenges and aesthetic preferences of New Yorkers and are committed to delivering exceptional craftsmanship and customer service. \n\nWhether you're renovating a pre-war apartment, designing a modern office space, or simply looking to upgrade your existing floors, our team of experienced professionals can help you find the perfect flooring to suit your needs and budget. We offer a wide selection of materials, including hardwood, tile, laminate, and carpet, and we're dedicated to providing expert installation and lasting results.",
+        "localContext": "New York City, a global hub for culture, commerce, and innovation, demands flooring solutions that are both stylish and durable. Connect Floorz is dedicated to providing flooring that enhances the beauty and functionality of NYC homes and businesses.",
+        "nearbyAreas": [
+          "Jersey City",
+          "Hoboken",
+          "The Bronx"
+        ]
+      },
+      {
+        "city": "Yonkers",
+        "slug": "yonkers-ny",
+        "state": "NY",
+        "content": "Connect Floorz extends its expert flooring services to Yonkers, a vibrant city just north of New York City. We understand Yonkers' unique blend of urban and suburban living, and we tailor our services to meet the needs of homeowners and businesses in this thriving community. Whether you're renovating a historic home or updating a modern office space, we offer a wide range of flooring options to suit your style and budget.\n\nOur team of skilled installers is committed to providing exceptional craftsmanship and customer service. We'll work with you every step of the way, from selecting the perfect flooring material to ensuring a flawless installation. Trust Connect Floorz to enhance the beauty and value of your Yonkers property with our top-quality flooring solutions.",
+        "localContext": "Yonkers, with its mix of historic homes and modern developments, requires flooring solutions that are both durable and aesthetically pleasing. Connect Floorz is proud to serve the Yonkers community with top-notch flooring services.",
+        "nearbyAreas": [
+          "Bronxville",
+          "Mount Vernon",
+          "Riverdale"
+        ]
+      },
+      {
+        "city": "White Plains",
+        "slug": "white-plains-ny",
+        "state": "NY",
+        "content": "Connect Floorz is delighted to bring our premier flooring services to White Plains, a bustling city in Westchester County. We recognize White Plains as a hub for business and residential living, and we're dedicated to providing flooring solutions that meet the diverse needs of our customers here. From elegant homes to professional office spaces, we offer a wide selection of flooring options to enhance any environment.\n\nOur experienced team is committed to delivering exceptional results, from initial consultation to final installation. We'll work closely with you to select the perfect flooring material, whether it's hardwood, tile, laminate, or carpet. Trust Connect Floorz to transform your White Plains property with our quality flooring services.",
+        "localContext": "White Plains, a thriving city with a mix of residential and commercial properties, demands high-quality flooring solutions. Connect Floorz is committed to providing White Plains residents and businesses with exceptional flooring services.",
+        "nearbyAreas": [
+          "Scarsdale",
+          "Hartsdale",
+          "Rye"
+        ]
+      },
+      {
+        "city": "New Rochelle",
+        "slug": "new-rochelle-ny",
+        "state": "NY",
+        "content": "Connect Floorz proudly serves the community of New Rochelle, New York, providing top-quality flooring solutions for homes and businesses. New Rochelle's diverse architecture and vibrant atmosphere inspire us to offer a wide range of flooring options to suit any style. We are committed to delivering exceptional craftsmanship and customer service to every project we undertake in New Rochelle.\n\nWhether you're looking to install hardwood flooring in a historic home or upgrade the flooring in your commercial space, Connect Floorz has the expertise and resources to get the job done right. We offer a variety of materials, including hardwood, laminate, tile, and carpet, and our experienced installers ensure a flawless finish every time.",
+        "localContext": "New Rochelle, a coastal city with a rich history and diverse population, requires flooring solutions that are both durable and aesthetically pleasing. Connect Floorz is dedicated to providing New Rochelle with top-notch flooring services.",
+        "nearbyAreas": [
+          "Larchmont",
+          "Pelham",
+          "Mamaroneck"
+        ]
+      },
+      {
+        "city": "Mount Vernon",
+        "slug": "mount-vernon-ny",
+        "state": "NY",
+        "content": "Connect Floorz is pleased to offer its professional flooring services to the residents and businesses of Mount Vernon, New York. We understand Mount Vernon's unique character and diverse needs, and we are committed to providing tailored flooring solutions that meet those needs. From classic homes to modern commercial spaces, we offer a wide range of flooring options to enhance any property.\n\nOur team of experienced installers is dedicated to delivering exceptional craftsmanship and customer service. We'll work with you every step of the way, from selecting the perfect flooring material to ensuring a flawless installation. Trust Connect Floorz to transform your Mount Vernon property with our top-quality flooring services.",
+        "localContext": "Mount Vernon, a vibrant city with a rich history and diverse community, deserves high-quality flooring solutions. Connect Floorz is committed to providing Mount Vernon residents and businesses with exceptional flooring services.",
+        "nearbyAreas": [
+          "Bronx",
+          "Pelham",
+          "Yonkers"
+        ]
+      },
+      {
+        "city": "Stamford",
+        "slug": "stamford-ny",
+        "state": "NY",
+        "content": "Connect Floorz proudly extends its flooring expertise to Stamford, Connecticut, just a short distance from New York City. Stamford's thriving business community and beautiful residential neighborhoods deserve the best in flooring, and we're committed to providing just that. From modern office spaces to elegant homes, we offer a wide range of flooring options to suit any style and budget.\n\nOur team of experienced professionals is dedicated to delivering exceptional craftsmanship and customer service. We'll work closely with you to select the perfect flooring material, whether it's hardwood, tile, laminate, or carpet. Trust Connect Floorz to transform your Stamford property with our quality flooring services.",
+        "localContext": "Stamford, a dynamic city with a blend of corporate and residential spaces, requires flooring solutions that are both stylish and durable. Connect Floorz is dedicated to providing Stamford with top-notch flooring services.",
+        "nearbyAreas": [
+          "Greenwich",
+          "Norwalk",
+          "Darien"
+        ]
+      },
+      {
+        "city": "Hoboken",
+        "slug": "hoboken-ny",
+        "state": "NY",
+        "content": "Connect Floorz offers top-tier flooring services to Hoboken, New Jersey, a vibrant city just across the Hudson River from New York City. We understand Hoboken's unique blend of historic charm and modern living, and we tailor our services to meet the specific needs of homeowners and businesses in this dynamic community. Whether you're renovating a brownstone or updating a contemporary condo, we offer a wide array of flooring choices to complement your style and budget.\n\nOur team of skilled installers is dedicated to delivering exceptional craftsmanship and superior customer service. We'll collaborate with you throughout the entire process, from selecting the ideal flooring material to ensuring a flawless installation. Trust Connect Floorz to elevate the beauty and value of your Hoboken property with our premium flooring solutions.",
+        "localContext": "Hoboken, with its mix of historic architecture and modern developments, demands flooring solutions that are both aesthetically pleasing and long-lasting. Connect Floorz is proud to serve the Hoboken community with exceptional flooring services.",
+        "nearbyAreas": [
+          "Jersey City",
+          "Union City",
+          "Weehawken"
+        ]
+      },
+      {
+        "city": "Jersey City",
+        "slug": "jersey-city-ny",
+        "state": "NY",
+        "content": "Connect Floorz is excited to provide its expert flooring services to Jersey City, New Jersey, a rapidly growing city adjacent to New York City. We recognize Jersey City's diverse neighborhoods and booming real estate market, and we are dedicated to offering flooring solutions that cater to the unique needs of its residents and businesses. From trendy lofts to modern office spaces, we offer a wide selection of flooring options to enhance any property.\n\nOur experienced team is committed to delivering outstanding results, from the initial consultation to the final installation. We'll work closely with you to choose the perfect flooring material, whether it's hardwood, tile, laminate, or carpet. Trust Connect Floorz to transform your Jersey City property with our quality flooring services.",
+        "localContext": "Jersey City, a diverse and rapidly growing city, requires flooring solutions that are both stylish and durable. Connect Floorz is committed to providing Jersey City residents and businesses with exceptional flooring services.",
+        "nearbyAreas": [
+          "Hoboken",
+          "Bayonne",
+          "Newark"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria S.",
+        "rating": 5,
+        "service": "Hardwood Flooring Installation",
+        "text": "Connect Floorz did an amazing job installing new hardwood floors in my living room. The team was professional, efficient, and the floors look absolutely stunning. They even helped me choose the perfect stain to match my furniture. Highly recommend!",
+        "date": "2024-11-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Tile Flooring Repair",
+        "text": "I had some cracked tiles in my bathroom, and Connect Floorz was able to repair them quickly and affordably. The repairman was courteous and knowledgeable, and the finished product looks great. I'm very happy with their service.",
+        "date": "2024-10-28"
+      },
+      {
+        "name": "Jessica L.",
+        "rating": 5,
+        "service": "Laminate Flooring Installation",
+        "text": "Connect Floorz installed laminate flooring in my basement, and I couldn't be happier with the results. The floors are durable, easy to clean, and look fantastic. The installation team was professional and efficient, and they completed the job on time and within budget.",
+        "date": "2024-09-05"
+      },
+      {
+        "name": "Michael B.",
+        "rating": 5,
+        "service": "Vinyl Flooring Installation",
+        "text": "We had Connect Floorz install vinyl flooring in our kitchen, and it's been a game-changer. It's so easy to clean and looks great. The installers were professional and efficient, and we're very happy with the results. They were also very careful when working in our 100-year old Brooklyn brownstone.",
+        "date": "2024-08-12"
+      },
+      {
+        "name": "Sarah H.",
+        "rating": 4,
+        "service": "Hardwood Floor Refinishing",
+        "text": "Connect Floorz refinished our hardwood floors, and they look like new! The team was professional and did a great job minimizing dust. The floors now have a beautiful shine, and we're thrilled with the results.",
+        "date": "2024-07-20"
+      },
+      {
+        "name": "Robert P.",
+        "rating": 5,
+        "service": "Floor Repair",
+        "text": "I had a section of damaged hardwood flooring in my office due to a water leak. Connect Floorz was able to repair the damage seamlessly. You can't even tell there was ever a problem. Exceptional workmanship!",
+        "date": "2024-06-01"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Connect Floorz NYC | Flooring Contractor",
+        "description": "NYC's trusted flooring experts. Installation, repair, hardwood, tile, laminate and vinyl. Free quotes!"
+      },
+      "about": {
+        "title": "About Connect Floorz | NYC Flooring",
+        "description": "Learn about Connect Floorz's commitment to quality, service, and community in New York City."
+      },
+      "services": {
+        "title": "Flooring Services | Connect Floorz NYC",
+        "description": "Expert flooring services in NYC. Hardwood, tile, laminate, vinyl, and more. Contact us today!"
+      },
+      "contact": {
+        "title": "Contact Connect Floorz | Get a Free Quote",
+        "description": "Contact Connect Floorz for a free quote on your flooring project in New York City. Call or email us today!"
+      },
+      "reviews": {
+        "title": "Connect Floorz Reviews | NYC Flooring",
+        "description": "Read reviews from satisfied Connect Floorz customers in New York City. Quality flooring and expert installation."
+      },
+      "service-areas": {
+        "title": "Connect Floorz Service Areas | NYC",
+        "description": "Connect Floorz provides flooring services throughout New York City and surrounding areas. Find your neighborhood!"
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "hardwood-flooring": "/images/service-hardwood-flooring.webp",
+      "tile-flooring": "/images/service-tile-flooring.webp",
+      "laminate-flooring": "/images/service-laminate-flooring.webp",
+      "vinyl-flooring": "/images/service-vinyl-flooring.webp",
+      "floor-repair": "/images/service-floor-repair.webp",
+      "floor-installation": "/images/service-floor-installation.webp"
+    },
+    "servicesResponsive": {
+      "hardwood-flooring": {
+        "src": "/images/service-hardwood-flooring.webp",
+        "srcset": "/images/service-hardwood-flooring-400w.webp 400w, /images/service-hardwood-flooring-800w.webp 800w, /images/service-hardwood-flooring-1200w.webp 1200w, /images/service-hardwood-flooring.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "tile-flooring": {
+        "src": "/images/service-tile-flooring.webp",
+        "srcset": "/images/service-tile-flooring-400w.webp 400w, /images/service-tile-flooring-800w.webp 800w, /images/service-tile-flooring-1200w.webp 1200w, /images/service-tile-flooring.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "laminate-flooring": {
+        "src": "/images/service-laminate-flooring.webp",
+        "srcset": "/images/service-laminate-flooring-400w.webp 400w, /images/service-laminate-flooring-800w.webp 800w, /images/service-laminate-flooring-1200w.webp 1200w, /images/service-laminate-flooring.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "vinyl-flooring": {
+        "src": "/images/service-vinyl-flooring.webp",
+        "srcset": "/images/service-vinyl-flooring-400w.webp 400w, /images/service-vinyl-flooring-800w.webp 800w, /images/service-vinyl-flooring-1200w.webp 1200w, /images/service-vinyl-flooring.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "floor-repair": {
+        "src": "/images/service-floor-repair.webp",
+        "srcset": "/images/service-floor-repair-400w.webp 400w, /images/service-floor-repair-800w.webp 800w, /images/service-floor-repair-1200w.webp 1200w, /images/service-floor-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "floor-installation": {
+        "src": "/images/service-floor-installation.webp",
+        "srcset": "/images/service-floor-installation-400w.webp 400w, /images/service-floor-installation-800w.webp 800w, /images/service-floor-installation-1200w.webp 1200w, /images/service-floor-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
